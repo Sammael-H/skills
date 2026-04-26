@@ -40,6 +40,17 @@
         "./skills/web-artifacts-builder",
         "./skills/webapp-testing"
       ]
+    },
+    {
+      "name": "downloaded-skills",
+      "description": "Downloaded community skills: web asset generator for favicons/OG images, Jobs to Be Done framework, and skill discovery helper",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/web-asset-generator",
+        "./skills/jobs-to-be-done",
+        "./skills/find-skills"
+      ]
     }
   ]
 }
