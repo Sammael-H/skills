@@ -301,6 +301,15 @@ if __name__ == '__main__':
 
     args = parser.parse_args()
 
+    # When --emoji or --suggest is used without a source_image, argparse greedily
+    # fills source_image with the output_dir value (e.g. "output/"), shifting all
+    # positionals one slot to the right. Detect and correct this here.
+    if (args.emoji or args.suggest) and args.source_image is not None:
+        if args.output_dir in ('favicon', 'app', 'all'):
+            args.icon_type = args.output_dir
+        args.output_dir = args.source_image
+        args.source_image = None
+
     # Handle emoji suggestions
     if args.suggest:
         if not suggest_emojis:
