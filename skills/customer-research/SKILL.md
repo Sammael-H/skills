@@ -151,7 +151,7 @@ For every piece of content you find:
 
 After gathering from multiple sources, synthesize into:
 
-```
+```markdown
 ## Top Themes (ranked by frequency × intensity)
 
 ### Theme 1: [Name]
@@ -174,7 +174,7 @@ Personas should be built from research, not invented. Don't create a persona unt
 
 ### Persona Structure
 
-```
+```markdown
 ## [Persona Name] — [Role/Title]
 
 **Profile**

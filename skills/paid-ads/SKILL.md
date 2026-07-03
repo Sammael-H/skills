@@ -56,7 +56,7 @@ Gather this context (ask if not provided):
 
 ### Account Organization
 
-```
+```text
 Account
 ├── Campaign 1: [Objective] - [Audience/Product]
 │   ├── Ad Set 1: [Targeting variation]
@@ -69,7 +69,7 @@ Account
 
 ### Naming Conventions
 
-```
+```text
 [Platform]_[Objective]_[Audience]_[Offer]_[Date]
 
 Examples:

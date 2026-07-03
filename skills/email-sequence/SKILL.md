@@ -250,7 +250,7 @@ Key emails:
 ## Output Format
 
 ### Sequence Overview
-```
+```markdown
 Sequence Name: [Name]
 Trigger: [What starts the sequence]
 Goal: [Primary conversion goal]
@@ -260,7 +260,7 @@ Exit Conditions: [When they leave the sequence]
 ```
 
 ### For Each Email
-```
+```markdown
 Email [#]: [Name/Purpose]
 Send: [Timing]
 Subject: [Subject line]

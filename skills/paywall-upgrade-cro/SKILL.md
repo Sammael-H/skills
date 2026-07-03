@@ -97,7 +97,7 @@ After X days of free use:
 ## Specific Paywall Types
 
 ### Feature Lock Paywall
-```
+```text
 [Lock Icon]
 This feature is available on Pro
 
@@ -112,7 +112,7 @@ This feature is available on Pro
 ```
 
 ### Usage Limit Paywall
-```
+```text
 You've reached your free limit
 
 [Progress bar at 100%]
@@ -123,7 +123,7 @@ Free: 3 projects | Pro: Unlimited
 ```
 
 ### Trial Expiration Paywall
-```
+```text
 Your trial ends in 3 days
 
 What you'll lose:

@@ -50,7 +50,7 @@ Before implementing tracking, understand:
 
 ### Structure
 
-```
+```text
 Event Name | Category | Properties | Trigger | Notes
 ---------- | -------- | ---------- | ------- | -----
 ```
@@ -72,7 +72,7 @@ Event Name | Category | Properties | Trigger | Notes
 
 ### Recommended Format: Object-Action
 
-```
+```text
 signup_completed
 button_clicked
 form_submitted

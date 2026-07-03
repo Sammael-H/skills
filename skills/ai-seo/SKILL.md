@@ -134,7 +134,7 @@ See [references/platform-ranking-factors.md](references/platform-ranking-factors
 
 ### The Three Pillars
 
-```
+```text
 1. Structure (make it extractable)
 2. Authority (make it citable)
 3. Presence (be where AI looks)

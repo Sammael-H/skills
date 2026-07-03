@@ -81,7 +81,7 @@ Formula: [persona] + [use-case]. Targets long-tail keywords.
 
 **Hub and Spoke**
 Hub = comprehensive overview. Spokes = related subtopics.
-```
+```text
 /topic (hub)
 ├── /topic/subtopic-1 (spoke)
 ├── /topic/subtopic-2 (spoke)
@@ -137,7 +137,7 @@ Most of the time, all content can live under `/blog` with good internal linking 
 
 ### Pillar Structure
 
-```
+```text
 Pillar Topic (Hub)
 ├── Subtopic Cluster 1
 │   ├── Article A

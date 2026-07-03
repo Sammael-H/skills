@@ -125,13 +125,13 @@ For each field, ask:
 - Help text: Only when genuinely helpful
 
 **Good:**
-```
+```text
 Email
 [name@company.com]
 ```
 
 **Bad:**
-```
+```text
 [Enter your email address]  ← Disappears on focus
 ```
 

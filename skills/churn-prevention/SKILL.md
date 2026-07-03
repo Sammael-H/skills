@@ -66,7 +66,7 @@ This skill supports three modes:
 
 Every cancel flow follows this sequence:
 
-```
+```text
 Trigger → Survey → Dynamic Offer → Confirmation → Post-Cancel
 ```
 
@@ -155,7 +155,7 @@ The key insight: **match the offer to the reason.** A discount won't save someon
 
 ### Cancel Flow UI Patterns
 
-```
+```text
 ┌─────────────────────────────────────┐
 │  We're sorry to see you go          │
 │                                     │
@@ -228,7 +228,7 @@ Track these leading indicators of churn:
 
 Build a simple health score (0-100) from weighted signals:
 
-```
+```text
 Health Score = (
   Login frequency score × 0.30 +
   Feature usage score   × 0.25 +
@@ -266,7 +266,7 @@ Failed payments cause 30-50% of all churn but are the most recoverable.
 
 ### The Dunning Stack
 
-```
+```text
 Pre-dunning → Smart retry → Dunning emails → Grace period → Hard cancel
 ```
 

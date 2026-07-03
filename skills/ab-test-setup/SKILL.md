@@ -49,7 +49,7 @@ Before designing a test, understand:
 
 ### Structure
 
-```
+```text
 Because [observation/data],
 we believe [change]
 will cause [expected outcome]
@@ -235,7 +235,7 @@ Individual tests are valuable. A continuous experimentation program is a compoun
 
 ### The Experiment Loop
 
-```
+```text
 1. Generate hypotheses (from data, research, competitors, customer feedback)
 2. Prioritize with ICE scoring
 3. Design and run the test
@@ -288,7 +288,7 @@ Track your experimentation rate as a leading indicator of growth:
 
 When a test wins, don't just implement it — document the pattern:
 
-```
+```markdown
 ## [Experiment Name]
 **Date**: [date]
 **Hypothesis**: [the hypothesis]

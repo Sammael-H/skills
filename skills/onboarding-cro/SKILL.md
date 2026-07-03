@@ -155,7 +155,7 @@ Define "stalled" criteria (X days inactive, incomplete setup)
 ### Funnel Analysis
 
 Track drop-off at each step:
-```
+```text
 Signup → Step 1 → Step 2 → Activation → Retention
 100%      80%       60%       40%         25%
 ```

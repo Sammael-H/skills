@@ -56,7 +56,7 @@ When the user provides performance data (CSV, paste, or API output), you analyze
 
 The core loop:
 
-```
+```text
 Pull performance data → Identify winning patterns → Generate new variations → Validate specs → Deliver
 ```
 
@@ -205,7 +205,7 @@ Create new creative that:
 
 Track what was learned and what's being tested:
 
-```
+```markdown
 ## Iteration Log
 - Round: [number]
 - Date: [date]
@@ -250,7 +250,7 @@ Descriptions should complement headlines, not repeat them. Use descriptions to:
 
 Organize by angle, with character counts:
 
-```
+```markdown
 ## Angle: [Pain Point — Manual Reporting]
 
 ### Headlines (30 char max)
@@ -277,7 +277,7 @@ headline_1,headline_2,headline_3,description_1,description_2,platform
 
 When iterating, include a summary:
 
-```
+```markdown
 ## Performance Summary
 - Analyzed: [X] headlines, [Y] descriptions
 - Top performer: "[headline]" — [metric]: [value]

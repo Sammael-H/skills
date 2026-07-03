@@ -70,7 +70,7 @@ Gather this context (ask if not provided):
 
 ### The Referral Loop
 
-```
+```text
 Trigger Moment → Share Action → Convert Referred → Reward → (Loop)
 ```
 
@@ -192,7 +192,7 @@ Trigger Moment → Share Action → Convert Referred → Reward → (Loop)
 
 ### Referral Program Launch
 
-```
+```text
 Subject: You can now earn [reward] for sharing [Product]
 
 We just launched our referral program!

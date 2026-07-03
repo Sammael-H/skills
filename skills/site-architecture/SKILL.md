@@ -85,7 +85,7 @@ Users should reach any important page within 3 clicks from the homepage. This is
 
 Use this format for page hierarchies:
 
-```
+```text
 Homepage (/)
 ├── Features (/features)
 │   ├── Analytics (/features/analytics)
@@ -143,7 +143,7 @@ Group footer links into columns:
 
 ### Breadcrumb Format
 
-```
+```text
 Home > Features > Analytics
 Home > Blog > SEO Category > Post Title
 ```
@@ -280,7 +280,7 @@ graph TD
 
 For content-heavy sites, organize around hub pages:
 
-```
+```text
 Hub: /blog/seo-guide (comprehensive overview)
 ├── Spoke: /blog/keyword-research (links back to hub)
 ├── Spoke: /blog/on-page-seo (links back to hub)
